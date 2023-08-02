@@ -1,0 +1,133 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mani.com" resolutions="1x" timestamp="1690979989043">
+  <folder name="css">
+    <file name="site_global.css" crc="3960999734"/>
+    <file name="master______-____-____.css" crc="4066537534" ref="partners"/>
+    <file name="master______-_-____-_-___-___.css" crc="390199192" ref="cuntact-us"/>
+    <file name="master_b-master.css" crc="4199654574" ref="about-us"/>
+    <file name="master_a-master.css" crc="532030594" ref="rate:index:place"/>
+    <file name="master_bazdid.css" crc="3831533495" ref="prices"/>
+    <file name="master_____-_-___-___-___-__-_____.css" crc="381243379" ref="hot-tours"/>
+    <file name="master______-____-_____-__-______-_-______.css" crc="3862363104" ref="tours"/>
+    <file name="master_____-______.css" crc="4185120315" ref="مانی-بالیده"/>
+    <file name="rate.css" crc="109463463" ref="rate"/>
+    <file name="hot-tours.css" crc="507553126" ref="hot-tours"/>
+    <file name="tours.css" crc="54834060" ref="tours"/>
+    <file name="cuntact-us.css" crc="4061501066" ref="cuntact-us"/>
+    <file name="____-______.css" crc="7765828" ref="مانی-بالیده"/>
+    <file name="prices.css" crc="270008299" ref="prices"/>
+    <file name="index.css" crc="109463463" ref="index"/>
+    <file name="about-us.css" crc="4210381014" ref="about-us"/>
+    <file name="place.css" crc="109463463" ref="place"/>
+    <file name="partners.css" crc="3949144074" ref="partners"/>
+  </folder>
+  <folder name="assets">
+    <file name="screenshot-(23).png" crc="187577409" seo="true" mt="1690477970000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="require.js" crc="4177726516" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:place:rate:مانی-بالیده"/>
+    <file name="webpro.js" crc="3856315280" ref="cuntact-us:hot-tours:prices"/>
+    <file name="form_check.php" crc="4108222811" ref="cuntact-us"/>
+    <file name="form_throttle.php" crc="503802655" ref="cuntact-us"/>
+    <file name="form_process.php" crc="260214869" ref="cuntact-us"/>
+    <file name="form-u4008.php" crc="257213138" ref="cuntact-us"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="hot-tours"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="hot-tours"/>
+    <file name="touchswipe.js" crc="3888935200" ref="hot-tours"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="prices"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="390453386" ref="index"/>
+    <file name="7899-crop-u264.jpg" crc="4254727787" seo="true" ref="index:place:rate">
+      <caption webpage="index" alt=""/>
+      <caption webpage="place" alt=""/>
+      <caption webpage="rate" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:about-us:tours:partners:cuntact-us:hot-tours:prices:مانی-بالیده">
+      <caption webpage="cuntact-us" alt=""/>
+      <caption webpage="prices" alt=""/>
+      <caption webpage="مانی-بالیده" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="tours" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_94708616-4413-4ae3-9a30-2236a2537691106x109.jpg" crc="3845801869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aparat-u5913.png" crc="213007072" ref="index:place:rate"/>
+    <file name="b-master-favicon.ico" crc="390453386" ref="about-us"/>
+    <file name="7899-crop-u1266.jpg" crc="4254727787" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="پروژه-فیلم-اوردن-با-اندازه-ی-دلخواه-favicon.ico" crc="390453386" ref="tours"/>
+    <file name="7899-crop-u5410.jpg" crc="4254727787" seo="true" ref="tours">
+      <caption webpage="tours" alt=""/>
+    </file>
+    <file name="پروژه-نقشه-گوگل-favicon.ico" crc="390453386" ref="partners"/>
+    <file name="7899-crop-u5048.jpg" crc="4254727787" seo="true" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="پروژه-ی-صفحه-ی-ثبت-نام-favicon.ico" crc="390453386" ref="cuntact-us"/>
+    <file name="7899-crop-u3990.jpg" crc="4254727787" seo="true" ref="cuntact-us">
+      <caption webpage="cuntact-us" alt=""/>
+    </file>
+    <file name="پروژ-ی-عوض-شدن-عکس-در-ثانیه-favicon.ico" crc="390453386" ref="hot-tours"/>
+    <file name="7899-crop-u2407.jpg" crc="4254727787" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_0cad31df-33c5-4240-afc9-5c59745cb393-crop-u2661.jpg" crc="375728593" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="hot-tours"/>
+    <file name="jowhareh_galleries_5_poster_02b38fd4-aefa-4a94-9046-d2d9b5bb69b6-crop-u2807.jpg" crc="3911960647" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_2fba8ccf-7408-48a4-a4d3-ce2e252ce39b-crop-u2827.jpg" crc="420771100" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_9c1a7023-243f-4dde-b12b-4606c8d322f6-crop-u2847.jpg" crc="3995403363" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_320bf4c9-e95b-407c-ac1e-eacb63a0dcdb-crop-u2867.jpg" crc="136283316" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_4670b0c5-9c9d-47c7-81f8-364db081f4ea-crop-u2887.jpg" crc="59454288" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_0843816c-33f4-478f-8e3a-58115b7e048c-crop-u2907.jpg" crc="1008365" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="jowhareh_galleries_5_poster_94708616-4413-4ae3-9a30-2236a2537691-crop-u2927.jpg" crc="3879493001" seo="true" ref="hot-tours">
+      <caption webpage="hot-tours" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="hot-tours"/>
+    <file name="bazdid-favicon.ico" crc="390453386" ref="prices"/>
+    <file name="7899-crop-u5992.jpg" crc="4254727787" seo="true" ref="prices">
+      <caption webpage="prices" alt=""/>
+    </file>
+    <file name="aparat-u6091.png" crc="213007072" ref="prices"/>
+    <file name="مانی-بالیده-favicon.ico" crc="390453386" ref="مانی-بالیده"/>
+    <file name="7899-crop-u6425.jpg" crc="4254727787" seo="true" ref="مانی-بالیده">
+      <caption webpage="مانی-بالیده" alt=""/>
+    </file>
+    <file name="aparat-u6413.png" crc="213007072" ref="مانی-بالیده"/>
+  </folder>
+  <file name="index.html" crc="4270850508" seo="true" mt="1690978988606" redirect="true"/>
+  <file name="about-us.html" crc="4269184961" seo="true" mt="1690978963213" redirect="true"/>
+  <file name="tours.html" crc="202438252" seo="true" mt="1690978962776" redirect="true"/>
+  <file name="partners.html" crc="4081316991" seo="true" mt="1690978963151" redirect="true"/>
+  <file name="cuntact-us.html" crc="4179873444" seo="true" mt="1690979955683" redirect="true"/>
+  <file name="hot-tours.html" crc="514892926" seo="true" mt="1690978962901" redirect="true"/>
+  <file name="prices.html" crc="3788111667" seo="true" mt="1690978963088" redirect="true"/>
+  <file name="place.html" crc="293375032" seo="true" mt="1690978988606" redirect="true"/>
+  <file name="rate.html" crc="439135190" seo="true" mt="1690978988606" redirect="true"/>
+  <file name="مانی-بالیده.html" crc="4034674253" seo="true" mt="1690978962838" redirect="true"/>
+</manifest>
